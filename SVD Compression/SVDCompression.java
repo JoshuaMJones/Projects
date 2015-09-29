@@ -1,7 +1,10 @@
 import Jama.*;
 //needs the jama package in the same location
+//Joshua Morgan Jones
+//assignment1 Q1
 public class SVDCompression{
-	//File makes compressed approximations of an image file based on SVD (singular value decomposition) matrix compression
+	//File makes compressed approximations of an image file based on 
+	//SVD (singular value decomposition) matrix compression
 	public static void main(String[] args){
 
 		//setting up the matrix A
